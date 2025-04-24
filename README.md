@@ -119,7 +119,12 @@
 ### 网络工具 🌍
 
 - [Tailscale](https://tailscale.com/) - 基于 WireGuard 的 VPN 工具，方便远程访问 NAS 和宿舍电脑。
-- Quantumult X - 网络代理工具，基本上配置好就不用动，顺便可以去广告等等。
+- [Quantumult X](https://quantumult.app/) - 网络代理工具，基本上配置好就不用动，顺便可以去广告等等。
+- [Wireshark](https://www.wireshark.org/) - 网络协议分析工具，用于捕获和分析网络数据包。
+- [Proxifier](https://www.proxifier.com/) - 网络代理客户端，强制应用程序通过代理服务器运行，小程序抓包，内网渗透等。
+- [Reqable](https://reqable.com/) - API 调试和测试工具，支持 HTTP/HTTPS 请求分析。
+- [EasyConnect](https://www.sangfor.com.cn/product/easyconnect) - 深信服 VPN 客户端，访问单位内网需要。
+- [Apifox](https://www.apifox.com/) - API 测试。
 
 ------
 
