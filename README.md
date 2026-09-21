@@ -1,4 +1,4 @@
-# JOJO（2026 年 8 月 16 日更新）
+# JOJO（2026 年 9 月 21 日更新）
 
 ## 前言
 
@@ -76,7 +76,7 @@
 
 - [Homebrew](https://brew.sh/) - 用于安装各种软件的包管理器，macOS 必装。
 - [Git](https://git-scm.com/) - 必备的版本控制工具，用来下载一些github上的项目。
-- [Docker](https://www.docker.com/) - 开发和部署容器化应用的必备工具。
+- ~~[Docker](https://www.docker.com/) - 开发和部署容器化应用的必备工具。~~ 已卸载，容器统一用 OrbStack。
 - [ImageMagick](https://imagemagick.org/) - 命令行图片处理工具，主要用于批量转换图片格式。
 - [FFmpeg](https://ffmpeg.org/) - 命令行视频处理工具，适用于视频切片、转码等操作。
 - [Ollama](https://ollama.com/) - 本地运行大语言模型的工具，性能要求较高。
@@ -89,6 +89,9 @@
 - [bat](https://github.com/sharkdp/bat) - 带语法高亮的 cat 替代品。
 - [uv](https://github.com/astral-sh/uv) - 极速 Python 包/版本管理，替代 pip + venv。
 - [deno](https://deno.com/) - 现代化 JS/TS 运行时。
+- [azure-cli](https://learn.microsoft.com/cli/azure/) - Azure 云资源管理命令行。
+- [mole](https://mole.fit) - Mac 深度清理与优化命令行工具。
+- [ntfy](https://ntfy.sh/) - 消息推送服务，脚本/任务完成通知用。
 - [go](https://go.dev/) - Go 语言工具链，SSP 工具箱开发用。
 - [maven](https://maven.apache.org/) - Java 项目构建工具。
 - [node](https://nodejs.org/) - Node.js 运行时。
@@ -120,12 +123,12 @@
 - [Sublime Text](https://www.sublimetext.com/) - 轻量级文本编辑器，主要用它来记录一些零碎的文本，例如剪切板的东西，很喜欢用它来批量处理文本，快捷键很好用。
 - [PyCharm](https://www.jetbrains.com/pycharm/) - Python 开发 IDE，写一些小脚本，爬虫之类的，教育邮箱嫖的。
 - [GoLand](https://www.jetbrains.com/go/) - Go 语言开发 IDE，主要是SSP工具箱的开发，教育邮箱嫖的。
-- [PhpStorm](https://www.jetbrains.com/phpstorm/) - PHP 开发 IDE，以前写PHP，现在不怎么写了，但是还是想下一个，教育邮箱嫖的。
+- ~~[PhpStorm](https://www.jetbrains.com/phpstorm/) - PHP 开发 IDE，以前写PHP，现在不怎么写了，但是还是想下一个，教育邮箱嫖的。~~ 已卸载。
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Java/Kotlin 开发 IDE，教育邮箱嫖的。
 - [010 Editor](https://www.sweetscape.com/010editor/) - 十六进制编辑器，CTF有时候会用到。
 - [Hex Fiend](https://hexfiend.com/) - 免费的十六进制编辑器，CTF有时候会用到。
 - [Typora](https://typora.io/) - 简洁的 Markdown 编辑器，主要是用来写一些教程或者公众号文章，配合图床使用很方便，导出pdf等格式的。
-- [Arduino IDE](https://www.arduino.cc/en/software) - Arduino 开发环境，硬件折腾用。
+- ~~[Arduino IDE](https://www.arduino.cc/en/software) - Arduino 开发环境，硬件折腾用。~~ 已卸载。
 
 ------
 
@@ -133,25 +136,27 @@
 
 - [ChatGPT](https://chat.openai.com/) - 桌面端，日常问答/写代码。
 - [Kimi](https://kimi.moonshot.cn/) - 月之暗面，长文本处理很猛。
+- [豆包](https://www.doubao.com/) - 字节跳动 AI 助手，桌面客户端 + 豆包浏览器常驻。
+- [WorkBuddy](https://www.workbuddy.cn/) - 本地 AI 助手，日常任务自动化与文件处理。
 - [OpenCode](https://github.com/sst/opencode) - 开源 AI 编程助手。
-- [Qoder](https://qoder.com/) - AI 代码编辑器。
+- ~~[Qoder](https://qoder.com/) - AI 代码编辑器。~~ 已卸载。
 - [ZCode](https://zcode.ai/) - AI 编程工具。
 - [claude-code](https://www.anthropic.com/) (Homebrew) - Claude 官方命令行编程 agent。
 - [gemini-cli](https://github.com/google-gemini/gemini-cli) (Homebrew) - Gemini 命令行工具。
 - finetune (Homebrew) - 模型微调相关工具（待确认）。
-- （另：[Cherry Studio](https://cherry-ai.com/) 见生产力工具，[Trae CN](https://www.trae.cn/) 见 IDE）
+- （另：[Trae CN](https://www.trae.cn/) 见 IDE，WorkBuddy 见上方）
 
 ------
 
 ### 生产力工具 🚀
 
 - [Raycast](https://www.raycast.com/) - 高效的桌面操作工具，粘贴板历史功能必备，能代替很多工具，配置好后非常顺手，之前用utools，但因为UI和强制升级后插件只能用10个，遂放弃。
-- [Cherry Studio](https://cherry-ai.com/) - AI生产力工具。
-- [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365) - Office 全家桶（Word/Excel/PowerPoint/Outlook/OneNote/Teams），单位正版化嫖的。
+- ~~[Cherry Studio](https://cherry-ai.com/) - AI生产力工具。~~ 已卸载。
+- [Microsoft Office](https://www.microsoft.com/en-us/microsoft-365) - Office 全家桶（Word/Excel/PowerPoint/OneNote/Teams），单位正版化嫖的。
 - ~~[WPS](https://www.wps.com/) - 国产办公套件。~~ 已卸载，Office 全家桶够用。
 - [Foxit PDF](https://www.foxit.com/pdf-editor/) - PDF 编辑工具，挺好用的，单位正版化嫖的高级版。
 - [Xmind](https://xmind.app/) - 思维导图工具，适合知识整理和读书笔记。
-- [网易有道翻译](https://fanyi.youdao.com/) - 划词翻译，日常查词。
+- ~~[网易有道翻译](https://fanyi.youdao.com/) - 划词翻译，日常查词。~~ 已卸载。
 - Keynote / Numbers / Pages Creator Studio - 模板与创作辅助套件。
 
 ------
@@ -175,6 +180,7 @@
 - [Notion](https://www.notion.so/) - 配合工作流和IPhone的快捷指令，只需要双击背板即可唤起窗口进行记账，然后数据存储到Notion的表格中，每月进行收支分析。
 - [同花顺](https://www.10jqka.com.cn/) - 股票行情与交易。
 - [TradingView](https://www.tradingview.com/) - 行情图表分析，EA 策略复盘也用它。
+- [MetaTrader 5](https://www.metatrader5.com/) - 外汇/CFD 交易平台，EA 回测。
 
 ------
 
@@ -188,14 +194,14 @@
 
 - [iCloud](https://www.apple.com/icloud/) - 苹果生态文件和照片备份，闲鱼开的1TB 家庭套餐（￥180/year）。
 - [夸克网盘](https://www.quark.cn/) - 存储次要文件，主要是有网盘推广的20TB 免费空间，时不时送半个月的会员。
-- ~~[百度网盘](https://pan.baidu.com/) - 照片备份和资源下载。~~ 已卸载。
+- ~~[百度网盘](https://pan.baidu.com/) - 资源下载。~~ ~~已卸载~~，2026 年 9 月又装回来了，主要用于资源下载。
 - [FileZilla](https://filezilla-project.org/) - FTP 文件传输工具。
 - [Keka](https://www.keka.io/) - macOS 压缩工具。
-- [FastZip](https://fastzip.app/) - 另一款压缩工具，偶尔用。
+- ~~[FastZip](https://fastzip.app/) - 另一款压缩工具，偶尔用。~~ 已卸载。
 - [LocalSend](https://localsend.org/) - 局域网跨平台文件传输，AirDrop 平替。
 - [OpenMTP](https://github.com/ganeshrvel/openmtp) - Android 文件传输（比 Android File Transfer 好用）。
 - [迅雷](https://www.xunlei.com/) - 资源下载。
-- [i4Tools](https://www.i4tools.org/) - iOS 设备管理（爱思助手 Mac 版）。
+- ~~[i4Tools](https://www.i4tools.org/) - iOS 设备管理（爱思助手 Mac 版）。~~ 已卸载。
 
 ------
 
@@ -211,6 +217,7 @@
   - 1password，密码管理器，闲鱼找的学生包，20多块钱一年。
   - [AdGuard for Safari](https://adguard.com/) - 广告拦截工具。
   - [Immersive Translate](https://immersivetranslate.com/) - 网页翻译工具，牛逼！。
+  - [TinEye Reverse Image Search](https://tineye.com/) - 反向图片搜索，右键即可查图片来源与盗用。
   - [Raindrop](https://raindrop.io/) - 云端书签同步工具，目前书签全部在Raindrop中，浏览器中已无书签，方便三端同步。
   - [Send to Telegram for Google Chrome](https://chromewebstore.google.com/detail/send-to-telegram-for-goog/dgblfklicldlbclahclbkeiacpiiancc?hl=zh-TW) - 将感兴趣的文章或网页发送到我的TG频道。
   - [Tampermonkey](https://www.tampermonkey.net/) - 油猴脚本管理器。
@@ -252,9 +259,10 @@
 - ~~[Tailscale](https://tailscale.com/) - 基于 WireGuard 的 VPN 工具，方便远程访问 NAS 和宿舍电脑。~~ 已卸载。
 - [Quantumult X](https://quantumult.app/) - 网络代理工具，基本上配置好就不用动，顺便可以去广告等等。
 - [Wireshark](https://www.wireshark.org/) - 网络协议分析工具，用于捕获和分析网络数据包。
-- [Proxifier](https://www.proxifier.com/) - 网络代理客户端，强制应用程序通过代理服务器运行，小程序抓包，内网渗透等。
+- ~~[Proxifier](https://www.proxifier.com/) - 网络代理客户端，强制应用程序通过代理服务器运行，小程序抓包，内网渗透等。~~ 已卸载。
 - ~~[Reqable](https://reqable.com/) - API 调试和测试工具，支持 HTTP/HTTPS 请求分析。~~ 已卸载。
 - [EasyConnect](https://www.sangfor.com.cn/product/easyconnect) - 深信服 VPN 客户端，访问单位内网需要。
+- USM SSO - 深信服单点登录客户端，配合 EasyConnect 使用。
 - [Apifox](https://www.apifox.com/) - API 测试。
 - [Surge](https://nssurge.com/) - 网络调试与代理工具，抓包和分流规则配置很强。
 - [OpenVPN Connect](https://openvpn.net/) - OpenVPN 客户端；另装 openvpn 命令行版。
@@ -273,6 +281,7 @@
 - [Apple Music](https://music.apple.com/cn/new) - 现在的主要音乐平台，音质其他的平台没法比。。
 - ~~[QQ音乐](https://y.qq.com/) - 主要音乐平台，曲库强大，配合Spotify一起使用，可惜不支持多设备协同。~~ 已卸载。
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - 专业视频剪辑调色。
+- [剪映专业版](https://www.capcut.cn/) - 短视频剪辑，轻量场景用。
 - [Audacity](https://www.audacityteam.org/) - 开源音频录制/编辑。
 - [抖音](https://www.douyin.com/) - 短视频。
 
@@ -282,7 +291,7 @@
 
 - [豆瓣](https://www.douban.com/) - 影视、书籍、音乐评分参考。
 - [知乎](https://www.zhihu.com/) - 问答社区，浏览感兴趣话题。
-- [Follow](https://follow.is/) - RSS 阅读器，目前最主要的获取信息来源。
+- [Folo](https://follow.is/)（原 Follow）- RSS 阅读器，目前最主要的获取信息来源。
 - [Amazon Kindle](https://www.amazon.com/kindle) - Kindle 桌面端阅读。
 - [calibre](https://calibre-ebook.com/) - 电子书管理/格式转换。
 - [Kindle Comic Converter](https://kcc.iosphe.re/) - 漫画转 Kindle 格式。
@@ -294,7 +303,8 @@
 ### 开发工具 🧑‍💻
 
 - ~~[iTerm 2](https://iterm2.com/) - 替代原生终端，支持优雅的下拉式终端。~~ 已卸载，现使用 [kitty](https://sw.kovidgoyal.net/kitty/)（GPU 加速，配置灵活）。
-- ~~[Warp](https://www.warp.dev/) - 现代化终端工具，用着挺不错的，UI美观。~~ 平时根本想不起来用，弃了，还是用iterm吧
+- ~~[Warp](https://www.warp.dev/) - 现代化终端工具，用着挺不错的，UI美观。~~ 平时根本想不起来用，弃了，还是用 kitty 吧。
+- [Termius](https://termius.com/) - SSH 客户端，多端同步，移动端连服务器方便。
 - [MAMP PRO](https://www.mamp.info/en/mamp-pro/) - 本地PHP服务器开发环境。
 - [SecureCRT](https://www.vandyke.com/products/securecrt/) - 终端仿真/SSH 多会话管理。
 - [Royal TSX](https://royalapps.com/ts/mac/) - 远程连接管理（SSH/RDP/VNC 一站式）。
@@ -319,7 +329,9 @@
 - [Windows App](https://apps.microsoft.com/detail/9n1f85v9t8bn?hl=en-us&gl=US) - 远程控制 Windows 的工具。
 - [Mos](https://mos.caldis.me/) - 鼠标平滑滚动工具。
 - [超级右键](https://www.better365.cn/irightmouse.html) - 右键菜单增强工具（实际装的 iRightMouse Lite 版）。
-- [Bartender](https://www.macbartender.com/) - 菜单栏管理工具，隐藏图标（已升级到 Bartender 6）。
+- ~~[Bartender](https://www.macbartender.com/) - 菜单栏管理工具，隐藏图标（已升级到 Bartender 6）。~~ 已卸载。
+- [BetterDisplay](https://betterdisplay.pro/) - 显示器控制（亮度/分辨率/虚拟屏）。
+- [OnyX](https://www.titanium-software.fr/en/onyx.html) - 系统维护与清理工具。
 - [Syntax Highlight](https://formulae.brew.sh/cask/syntax-highlight) - 按下空格快速查看，代码高亮工具。
 - ~~[CleanMyMac X](https://macpaw.com/cleanmymac) - 清理缓存和软件卸载工具。~~ 已卸载，改用 [腾讯柠檬清理](https://lemon.qq.com/)。
 - [Logi Options+](https://www.logitech.com/software/logi-options-plus.html) - 我使用的是MX master 3s，配置好键位体验感极佳。
@@ -372,7 +384,8 @@
 
 ### 游戏 🎮
 
-- [Steam](https://store.steampowered.com/) - 游戏平台。
+- ~~[Steam](https://store.steampowered.com/) - 游戏平台。~~ 已卸载。
+- [PlayCover](https://playcover.io/) - iOS 应用/游戏侧载到 macOS。
 - PowerWash Simulator - 洗刷刷解压神器。
 - Minesweeper - 扫雷。
 - [bongo-cat](https://github.com/ayangweb/bongo-cat) - 趣味工具，实时显示键鼠操作，录屏装饰。
