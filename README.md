@@ -144,8 +144,6 @@
 - [ZCode](https://zcode.ai/) - AI 编程工具。
 - [claude-code](https://www.anthropic.com/) (Homebrew) - Claude 官方命令行编程 agent。
 - [gemini-cli](https://github.com/google-gemini/gemini-cli) (Homebrew) - Gemini 命令行工具。
-- finetune (Homebrew) - 模型微调相关工具（待确认）。
-- （另：[Trae CN](https://www.trae.cn/) 见 IDE，WorkBuddy 见上方）
 
 ------
 
